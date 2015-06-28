@@ -6,3 +6,6 @@ This is a Poker game developed in Python. You can play in teams of 1-5 players. 
 
 Example
 ![alt tag](https://github.com/danydenio/Poker-Python-Game/blob/master/example.png)
+![alt tag](https://github.com/danydenio/Poker-Python-Game/blob/master/example.png)
+![alt tag](https://github.com/danydenio/Poker-Python-Game/blob/master/example.png)
+![alt tag](https://github.com/danydenio/Poker-Python-Game/blob/master/example.png)
