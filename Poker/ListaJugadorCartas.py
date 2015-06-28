@@ -51,4 +51,4 @@ class ListaJugadorCartas(Baraja,Jugador_Cartas):
         elif len(listaultimos)>1:
             listaultimos=self.empates(va,listaultimos)
             #print(listaultimos[0].nombre)
-            return listaultimos
+        return listaultimos
