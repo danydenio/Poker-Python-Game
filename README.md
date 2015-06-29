@@ -12,9 +12,3 @@ Example
 ![alt tag](https://github.com/danydenio/Poker-Python-Game/blob/master/example5.png)
 ![alt tag](https://github.com/danydenio/Poker-Python-Game/blob/master/example6.png)
 
-Developers
-Dabiel Alejandro Gómez Acero
-Erick Alexis Reza Sanchez
-Luis Alfonso Barcenas Aguirre
-Damaris Abigail Garcia Lomas
-Brenda Laura Martell Medina
